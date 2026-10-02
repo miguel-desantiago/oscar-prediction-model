@@ -1,0 +1,100 @@
+year,film,won_pga,won_dga,won_bafta,won_critics,total_oscar_nominations,won_oscar
+2015,American Sniper,0,0,0,0,6,0
+2015,Birdman or (The Unexpected Virtue of Ignorance),1,1,0,0,9,1
+2015,Boyhood,0,0,1,1,6,0
+2015,The Grand Budapest Hotel,0,0,0,0,9,0
+2015,The Imitation Game,0,0,0,0,8,0
+2015,Selma,0,0,0,0,2,0
+2015,The Theory of Everything,0,0,0,0,5,0
+2015,Whiplash,0,0,0,0,5,0
+2016,The Big Short,1,0,0,0,5,0
+2016,Bridge of Spies,0,0,0,0,6,0
+2016,Brooklyn,0,0,0,0,3,0
+2016,Mad Max: Fury Road,0,0,0,0,10,0
+2016,The Martian,0,0,0,0,7,0
+2016,The Revenant,0,1,1,0,12,0
+2016,Room,0,0,0,0,4,0
+2016,Spotlight,0,0,0,1,6,1
+2017,Arrival,0,0,0,0,8,0
+2017,Fences,0,0,0,0,4,0
+2017,Hacksaw Ridge,0,0,0,0,6,0
+2017,Hell or High Water,0,0,0,0,4,0
+2017,Hidden Figures,0,0,0,0,3,0
+2017,La La Land,1,1,1,1,14,0
+2017,Lion,0,0,0,0,6,0
+2017,Manchester by the Sea,0,0,0,0,6,0
+2017,Moonlight,0,0,0,0,8,1
+2018,Call Me by Your Name,0,0,0,0,4,0
+2018,Darkest Hour,0,0,0,0,6,0
+2018,Dunkirk,0,0,0,0,8,0
+2018,Get Out,0,0,0,0,4,0
+2018,Lady Bird,0,0,0,0,5,0
+2018,Phantom Thread,0,0,0,0,6,0
+2018,The Post,0,0,0,0,2,0
+2018,The Shape of Water,1,1,0,1,13,1
+2018,"Three Billboards outside Ebbing, Missouri",0,0,1,0,7,0
+2019,Black Panther,0,0,0,0,7,0
+2019,BlackkKlansman,0,0,0,0,6,0
+2019,Bohemian Rhapsody,0,0,0,0,5,0
+2019,The Favourite,0,0,0,0,10,0
+2019,Green Book,1,0,0,0,5,1
+2019,Roma,0,1,1,1,10,0
+2019,A Star is Born,0,0,0,0,8,0
+2019,Vice,0,0,0,0,8,0
+2020,Ford v. Ferrari,0,0,0,0,4,0
+2020,The Irishman,0,0,0,0,10,0
+2020,Jojo Rabbit,0,0,0,0,6,0
+2020,Joker,0,0,0,0,11,0
+2020,Little Women,0,0,0,0,6,0
+2020,Marriage Story,0,0,0,0,6,0
+2020,1917,1,1,1,0,10,0
+2020,Once upon a Time...in Hollywood,0,0,0,1,10,0
+2020,Parasite,0,0,0,0,6,1
+2021,The Father,0,0,0,0,6,0
+2021,Judas and the Black Messiah,0,0,0,0,6,0
+2021,Mank,0,0,0,0,10,0
+2021,Minari,0,0,0,0,6,0
+2021,Nomadland,1,1,1,1,6,1
+2021,Promising Young Woman,0,0,0,0,5,0
+2021,Sound of Metal,0,0,0,0,6,0
+2021,The Trial of the Chicago 7,0,0,0,0,6,0
+2022,Belfast,0,0,0,0,7,0
+2022,CODA,1,0,0,0,3,1
+2022,Don't Look Up,0,0,0,0,4,0
+2022,Drive My Car,0,0,0,0,4,0
+2022,Dune,0,0,0,0,10,0
+2022,King Richard,0,0,0,0,6,0
+2022,Licorice Pizza,0,0,0,0,3,0
+2022,Nightmare Alley,0,0,0,0,4,0
+2022,The Power of the Dog,0,1,1,1,12,0
+2022,West Side Story,0,0,0,0,7,0
+2023,All Quiet on the Western Front,0,0,1,0,9,0
+2023,Avatar: The Way of Water,0,0,0,0,4,0
+2023,The Banshees of Inisherin,0,0,0,0,9,0
+2023,Elvis,0,0,0,0,8,0
+2023,Everything Everywhere All at Once,1,1,0,1,11,1
+2023,The Fabelmans,0,0,0,0,7,0
+2023,Tár,0,0,0,0,6,0
+2023,Top Gun: Maverick,0,0,0,0,6,0
+2023,Triangle of Sadness,0,0,0,0,3,0
+2023,Women Talking,0,0,0,0,2,0
+2024,American Fiction,0,0,0,0,5,0
+2024,Anatomy of a Fall,0,0,0,0,5,0
+2024,Barbie,0,0,0,0,8,0
+2024,The Holdovers,0,0,0,0,5,0
+2024,Killers of the Flower Moon,0,0,0,0,10,0
+2024,Maestro,0,0,0,0,7,0
+2024,Oppenheimer,1,1,1,1,13,1
+2024,Past Lives,0,0,0,0,2,0
+2024,Poor Things,0,0,0,0,11,0
+2024,The Zone of Interest,0,0,0,0,5,0
+2025,Anora,1,1,0,1,6,1
+2025,The Brutalist,0,0,0,0,10,0
+2025,A Complete Unknown,0,0,0,0,8,0
+2025,Conclave,0,0,1,0,8,0
+2025,Dune: Part Two,0,0,0,0,5,0
+2025,Emilia Pérez,0,0,0,0,13,0
+2025,I'm Still Here,0,0,0,0,3,0
+2025,Nickel Boys,0,0,0,0,2,0
+2025,The Substance,0,0,0,0,5,0
+2025,Wicked,0,0,0,0,10,0
